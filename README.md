@@ -12,6 +12,9 @@ This project contains:
 * An examination of the correlation between two variables in the dataset. 
 
 ## Get Started
+The analysis is contained in an IPython, or `.ipynb`, file. 
+
+For more information on how to run an `.ipynb` file, you can visit [IPython](https://ipython.org/) or [Jupyter Project](https://jupyter.org/). 
 
 ## Get Help
 
