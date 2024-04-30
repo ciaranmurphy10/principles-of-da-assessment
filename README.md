@@ -23,4 +23,4 @@ For more information on anything contained in this repository, please email me a
 I am not currently seeking contributions to this repository. 
 
 ## Author
-
+My name is Ciaran Murphy, and I have a strong interest in data analytics. I live in the Irish midlands with my two cats Twinky and Daisy, and I like to play guitar and piano in my free time. 
