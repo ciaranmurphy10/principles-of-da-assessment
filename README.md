@@ -12,15 +12,15 @@ This project contains:
 * An examination of the correlation between two variables in the dataset. 
 
 ## Get Started
-The analysis is contained in an IPython, or `.ipynb`, file. 
+This analysis is contained in an IPython, or `.ipynb`, file. 
 
 For more information on how to run an `.ipynb` file, you can visit [IPython](https://ipython.org/) or [Jupyter Project](https://jupyter.org/). 
 
 ## Get Help
-For more information on anything contained in this repository, please email me at [ciaranmurphy10@gmail.com](mailto:ciaranmurphy10@gmail.com)
+For more information on anything contained in this repository, please email me at [ciaranmurphy10@gmail.com](mailto:ciaranmurphy10@gmail.com).
 
 ## Contribute
 I am not currently seeking contributions to this repository. 
 
 ## Author
-My name is Ciaran Murphy, and I have a strong interest in data analytics. I live in the Irish midlands with my two cats Twinky and Daisy, and I like to play guitar and piano in my free time. 
+My name is Ciaran Murphy and I have a strong interest in data analytics. I live in the Irish midlands with my two cats Twinky and Daisy, and I like to play guitar and piano in my free time. 
