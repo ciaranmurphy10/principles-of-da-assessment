@@ -20,6 +20,7 @@ For more information on how to run an `.ipynb` file, you can visit [IPython](htt
 For more information on anything contained in this repository, please email me at [ciaranmurphy10@gmail.com](mailto:ciaranmurphy10@gmail.com)
 
 ## Contribute
+I am not currently seeking contributions to this repository. 
 
 ## Author
 
