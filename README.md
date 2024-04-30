@@ -17,6 +17,7 @@ The analysis is contained in an IPython, or `.ipynb`, file.
 For more information on how to run an `.ipynb` file, you can visit [IPython](https://ipython.org/) or [Jupyter Project](https://jupyter.org/). 
 
 ## Get Help
+For more information on anything contained in this repository, please email me at [ciaranmurphy10@gmail.com](mailto:ciaranmurphy10@gmail.com)
 
 ## Contribute
 
