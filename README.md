@@ -1,1 +1,15 @@
-Repo containing Assessment for 23-24: 8634 -- PRINCIPLES OF DATA ANALYTICS.
+# Palmers Penguins Analysis
+**by Ciaran Murphy**
+
+## About This Project
+
+## Use This Project
+
+## Get Started
+
+## Get Help
+
+## Contribute
+
+## Author
+
